@@ -1,4 +1,3 @@
-![gif](https://github.com/ihsuhk15/ihsuhk15/blob/main/Banner.gif)
 ### Hi there 👋
 
 <!--
