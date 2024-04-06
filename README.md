@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/ihsuhk15/ihsuhk15/blob/main/Banner.gif" alt="Your GIF Banner" width="650" height="350">
+</p>
+
 ### Hi there 👋
 
 <!--
